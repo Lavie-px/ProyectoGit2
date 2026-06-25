@@ -1,0 +1,13 @@
+button{
+    background-color: green;
+    border: 1px solid green;
+    color: white;
+    border-radius: 5px;
+    width: 90px;
+    height: 35px;
+}
+#ingresoMensaje{
+    border-radius: 5px;
+    width: 300px;
+    height: 35px;
+}
